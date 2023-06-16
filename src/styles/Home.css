@@ -1,0 +1,164 @@
+.Director_Videos_text {
+    margin-bottom: 6px;
+    color: #999;
+    font-weight: bold;
+}
+
+
+.Director_Videos_div {
+    display: inline-block;
+    width: 24%;
+    margin-bottom: 15px;
+}
+
+.Director_Videos_div_a {
+    display: grid;
+    text-align: center;
+}
+
+.Director_Videos_img {
+    width: 82px;
+    margin-bottom: 2px;
+}
+
+
+.sector_videos_div {
+    padding: 10px 0;
+}
+
+.sector_videos_div_td {
+    vertical-align: top;
+}
+
+.sector_videos_div_td_td {
+    padding-left: 10px;
+}
+
+.sector_videos_div_td_td_div {
+    top: 3px;
+}
+
+.sector_videos_div_td_td_st {
+    margin: 3px 0 3px 0;
+}
+
+.sector_videos_div_tr {
+    vertical-align: top;
+}
+
+.ph_a {
+    margin: 0;
+}
+
+.ph_p {
+    margin: 0;
+}
+.image_preview{
+    max-width: 13vh;
+}
+
+.videos {
+    border: 1px solid #CCC;
+    background: #EEE;
+    padding-left: 6px;
+    margin: 5px 0;
+}
+.desc {
+    max-width: 75ch;
+}
+.main_left {
+    display: block;
+    float: left;
+    width: 550px;
+}
+
+.main_right {
+    display: block;
+    float: right;
+    width: 300px;
+}
+
+.placeholder {
+    background: #CCC;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 3px 3px;
+}
+
+.top {
+    font-size: 14px;
+    font-weight: bold;
+
+}
+
+.bottom {
+    margin-bottom: 15px;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.content_main_right {
+    margin-bottom: 15px;
+    border: 1px solid #CCC;
+}
+
+.content_main_right_cont_d {
+    padding: 6px;
+}
+
+.d_s_f {
+    float: right
+}
+
+.content_main_right_p {
+    text-align: center;
+    padding: 6px;
+}
+
+.content_d_p {
+    padding: 6px;
+}
+
+.content_d_p_mb {
+    padding: 6px;
+    margin-bottom: 6px;
+}
+
+.content_d_p_mb_d {
+    margin-bottom: 30px;
+}
+
+.s_f_l {
+    float: left;
+}
+
+.s_w {
+    width: 80px;
+}
+
+.s_f_l_ml {
+    margin-left: 86px;
+}
+
+.pr_hd_bar_ul {
+    margin-top: 8px;
+}
+
+.pr_hd_bar_ul_li {
+    background: #DDD;
+    margin-right: 6px;
+}
+
+.pr_hd_bar_ul_li_a {
+    margin-right: 6px;
+    text-align: center;
+}
+
+
+.pr_hd_bar_a {
+    text-align: center;
+    padding: 8px;
+    margin-bottom: 12px;
+    background: #DDD;
+}

@@ -1,0 +1,80 @@
+.contentBox {
+    margin-bottom: 24px;
+    background-color: #EEE;
+    padding: 6px;
+    border: 1px solid #CCC;
+}
+
+.main_left_login{
+    display: block;
+    float: left;
+    width: 49%;
+}
+
+.main_right_login{
+    display: block;
+    float: right;
+    width: 49%;
+}
+
+.sm_nav {
+    text-align: right;
+    padding-bottom: 6px
+}
+
+.pr_hd_bar_ul {
+    margin-top: 8px;
+}
+
+.pr_hd_bar_ul_li {
+    background: #DDD;
+    margin-right: 6px;
+}
+
+.pr_hd_bar_ul_li_a {
+    margin-right: 6px;
+    text-align: center;
+}
+
+.pr_hd_bar_a {
+    text-align: center;
+    padding: 8px;
+    margin-bottom: 12px;
+    background: #DDD;
+}
+
+.ul_s_b {
+    display: block;
+    padding-left: 40px;
+}
+
+.ul_s_b_li {
+    display: block;
+    padding: 0;
+    margin: 0;
+}
+
+.pr_hd_bar_ul {
+    margin-top: 8px;
+}
+
+.pr_hd_bar_ul_li {
+    background: #DDD;
+    margin-right: 6px;
+}
+
+.pr_hd_bar_ul_li_a {
+    margin-right: 6px;
+    text-align: center;
+}
+
+.pr_hd_bar_a {
+    text-align: center;
+    padding: 8px;
+    margin-bottom: 12px;
+    background: #DDD;
+}
+
+h2 {
+    margin-bottom: 15px;
+}

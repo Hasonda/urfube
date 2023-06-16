@@ -1,0 +1,100 @@
+.main_left {
+    display: block;
+    float: left;
+    width: 550px;
+}
+
+.main_right {
+    display: block;
+    float: right;
+    width: 300px;
+}
+
+.content {
+    background: #CCC;
+    padding: 0px 6px;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.content_pp {
+    padding: 6px;
+}
+
+.content_main_right {
+    margin-bottom: 15px;
+    border: 1px solid #CCC;
+}
+
+.lik {
+    display: flex;
+    align-items: center;
+}
+
+.but_llik {
+    cursor: pointer;
+    margin: auto;
+}
+
+.d_bor {
+    padding: 6px;
+    border: 1px solid #CCC;
+    margin: 15px 0;
+}
+
+.d_video {
+    width: 100%;
+    height: 100%;
+}
+
+.views {
+    display: grid;
+    grid-template-columns: 1fr 0.5fr 0.5fr;
+}
+
+.description {
+    word-wrap: break-word;
+}
+
+.description h3 {
+    margin: auto;
+}
+
+.counter {
+    display: grid;
+    align-items: center;
+}
+
+.btn_grp {
+    display: flex;
+    align-items: center;
+    margin: auto;
+}
+
+.btn_grp h4 {
+    margin: 5px;
+}
+
+.comment_head {
+    background-color: #EEE;
+    display: flex;
+    justify-content: space-between;
+    padding: 5px;
+    align-items: center;
+}
+.comment_date p{
+    margin: 0;
+}
+
+.comment_text {
+    width: 500px;
+    word-wrap: break-word;
+}
+.comment_text textarea {
+    min-width: 300px;
+    min-height: 70px;
+    max-width: fit-content;
+}
+.videoName{
+    word-wrap: break-word;
+}
